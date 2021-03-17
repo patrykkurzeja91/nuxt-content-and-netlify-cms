@@ -1,7 +1,16 @@
 ---
-title: new from netlify
-date: 2021-03-17T12:16:06.902Z
+title: new from netlify - street
+date: 2021-03-17T12:41:41.428Z
+img: /img/busy-street-noises-sound-effect-520x245.jpg
+alt: street
 description: so long
+author:
+  name: me
+  bio: no bio
+  img: /img/busy-street-noises-sound-effect-520x245.jpg
+tags:
+  - news
+  - lot
 ---
 haha this is th
 
