@@ -1,8 +1,9 @@
 ---
 title: My First Blog Post
-description: Learning how to use @nuxt/content to create a blog
+date: 2021-03-17T12:40:29.515Z
 img: https://images.unsplash.com/reserve/LJIZlzHgQ7WPSh5KVTCB_Typewriter.jpg?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60
 alt: my first blog post
+description: Learning how to use @nuxt/content to create a blog
 author:
   name: Peter
   bio: All about Peter and what he does and where he works
